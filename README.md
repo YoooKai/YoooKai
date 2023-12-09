@@ -1,8 +1,10 @@
-[![Masterhead](https://favim.com/pd/p/orig/2019/02/07/anime-scenery-header-Favim.com-6879514.jpg)
+
+![Header](https://64.media.tumblr.com/f7cc6020ba8f242dfdf9750d154a6fb2/tumblr_os4fmc1oiM1vy2tgqo9_1280.jpg)
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">A web development student in Canary Islands</h3>
 
-<img  align="right" width="400px" src="https://animesher.com/orig/1/194/1949/19492/animesher.com_--serial-experiments-lain-1949211.gif">
+![animesher com_--serial-experiments-lain-1949211](https://github.com/YoooKai/YoooKai/assets/145053705/cea1556b-b2f4-4be9-a894-62bba5a7f052)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoookai&label=Profile%20views&color=0e75b6&style=flat" alt="yoookai" /> </p>
 
