@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">A web development student in Canary Islands</h3>
 
-![animesher com_--serial-experiments-lain-1949211](https://github.com/YoooKai/YoooKai/assets/145053705/cea1556b-b2f4-4be9-a894-62bba5a7f052)
-
  <img src="https://files.catbox.moe/rjznr3.jpeg" alt="yoookai" /> 
 
 
