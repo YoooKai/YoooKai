@@ -5,8 +5,7 @@
 
 ![animesher com_--serial-experiments-lain-1949211](https://github.com/YoooKai/YoooKai/assets/145053705/cea1556b-b2f4-4be9-a894-62bba5a7f052)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoookai&label=Profile%20views&color=0e75b6&style=flat" alt="yoookai" /> </p>
+ <img src="https://files.catbox.moe/rjznr3.jpeg" alt="yoookai" /> 
 
 
 - 🌱 I’m currently learning **Django, Python, JavaScript**
