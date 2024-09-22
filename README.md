@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoookai&label=Profile%20views&color=0e75b6&style=flat" alt="yoookai" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Django, Python, JavaScript**
 
 
 <h3 align="left">Connect with me:</h3>
