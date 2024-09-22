@@ -1,9 +1,9 @@
 
 ![Header](https://files.catbox.moe/o8r1o0.png)
 <h1 align="center">Hi 👋, I'm Kai</h1>
-<img src="https://files.catbox.moe/k70w4a.gif" height="100px"><h3 align="center">A web development student in Canary Islands</h3>
+<h3 align="center">A web development student in Canary Islands</h3>
 
- <img src="https://files.catbox.moe/rjznr3.jpeg" alt="yoookai" height="250px" /> 
+ <img src="https://files.catbox.moe/rjznr3.jpeg" alt="yoookai" height="250px" /> <img src="https://files.catbox.moe/k70w4a.gif" height="100px">
 
 
 - 🌱 I’m currently learning **Django, Python, JavaScript**
