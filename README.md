@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">A web development student in Canary Islands</h3>
 
- <img src="https://files.catbox.moe/rjznr3.jpeg" alt="yoookai" height="250px" /> <img src="https://files.catbox.moe/k70w4a.gif" height="100px">
+ <img src="https://files.catbox.moe/rjznr3.jpeg" alt="yoookai" height="250px" /> <img src="https://files.catbox.moe/k70w4a.gif" height="200px">
 
 
 - 🌱 I’m currently learning **Django, Python, JavaScript**
