@@ -1,5 +1,5 @@
 
-![Header](https://64.media.tumblr.com/f7cc6020ba8f242dfdf9750d154a6fb2/tumblr_os4fmc1oiM1vy2tgqo9_1280.jpg)
+![Header](https://files.catbox.moe/o8r1o0.png)
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">A web development student in Canary Islands</h3>
 
@@ -10,9 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoookai" alt="yoookai" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **kai97rg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
